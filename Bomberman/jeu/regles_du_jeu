@@ -1,0 +1,27 @@
+*REGLES DU JEU*
+
+Choix du mod :easy,medium,hard en validant avec entré, x permet de quitter le menu.
+
+IL y'a deux joueurs J1:H et J2:A :
+
+*les commandes du J1:
+e:bombes.
+z:haut.
+q:gauche.
+d:droite.
+s:bas.
+*les commandes du J2:
+!:bombes.
+fleche gauche:gauche.
+fleche droite:droite.
+fleche haut:haut.
+fleche bas:bas.
+
+*les bonus:
++:puissance;
+*:vitesse;
+@:nombre de bombes posées.
+
+le premier joueur qui a ses pv tombés a 0 perd la partie.
+
+n permet de quitter le jeu.
